@@ -1,4 +1,10 @@
-# SinguReact
+## Instalación y ejecución del proyecto
+
+```
+npm install
+
+npm run dev
+```
 
 ## Progress Bar
 
